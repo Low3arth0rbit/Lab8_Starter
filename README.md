@@ -1,1 +1,3 @@
 # Lab 8 - Starter
+1. I would choose option 1, Within a Github action that runs whenever code is pushed. First off, the other two ways of testing is not very automated, they should be called manual testing. But the major reason for the first choice is that every code will have the same standarized test to run through and ensures that no part of the code will be left without testing.
+2. no you would use a unit test to check if the code is returning the correct output.
