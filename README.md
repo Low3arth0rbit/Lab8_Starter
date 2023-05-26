@@ -1,3 +1,5 @@
 # Lab 8 - Starter
 1. I would choose option 1, Within a Github action that runs whenever code is pushed. First off, the other two ways of testing is not very automated, they should be called manual testing. But the major reason for the first choice is that every code will have the same standarized test to run through and ensures that no part of the code will be left without testing.
 2. no you would use a unit test to check if the code is returning the correct output.
+3. no, message feature is more than a single unit. There are many components that will make up the message feature and thus end to end test will be better suited for this task
+4. yes, unlike the previous question, it is a single function of the messaging that we are trying to test. There is a clear guide to the unit test that any messages that are over 80 characters will not be typed.
